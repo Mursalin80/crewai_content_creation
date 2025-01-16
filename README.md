@@ -27,6 +27,7 @@ crewai install
 ```bash
 MODEL=groq/llama-3.1-8b-instant
 GROQ_API_KEY=''
+SERPER_API_KEY=''
 ```
 
 - Modify `src/content_creation/config/agents.yaml` to define your agents
